@@ -1,0 +1,16 @@
+{
+    "server" : {
+        "port":"8000"
+    },
+    "database": {
+        "host":"127.0.0.1",
+        "post":"3306",
+        "password":"",
+        "user":"root",
+        "dbname":"retail_x"
+    },
+    "jwt" : {
+        "signing_key":"BvMAO02Cabacd56defjk900nDD0",
+        "signing_algorithm":"HS256"
+    }
+}
